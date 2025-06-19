@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Reddit Sans";
+  src: url("/fonts/Reddit Sans/RedditSans-SemiBold.woff2") format("woff2"),
+    url("/fonts/Reddit Sans/RedditSans-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Reddit Sans";
+  src: url("/fonts/Reddit Sans/RedditSans-Regular.woff2") format("woff2"),
+    url("/fonts/Reddit Sans/RedditSans-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Reddit Sans";
+  src: url("/fonts/Reddit Sans/RedditSans-Bold.woff2") format("woff2"),
+    url("/fonts/Reddit Sans/RedditSans-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
