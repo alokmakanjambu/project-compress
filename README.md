@@ -70,12 +70,3 @@ npm start
 
 - UI inspired by Figma design
 - Built with [React](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/), [Flask](https://flask.palletsprojects.com/)
-- Author: [Your Name]
-
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-Feel free to fork, star, and use this project for your own file compression needs!
